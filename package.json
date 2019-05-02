@@ -1,0 +1,36 @@
+{
+  "name": "has_combining_character",
+  "version": "1.0.0",
+  "description": "Unicode 10.0 emoji v5 based checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "eslint": "eslint . --cache",
+    "eslint:fix": "eslint --fix . --cache"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yumetodo/has_combining_character.git"
+  },
+  "keywords": [
+    "unicode"
+  ],
+  "author": "yumetodo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yumetodo/has_combining_character/issues"
+  },
+  "homepage": "https://github.com/yumetodo/has_combining_character#readme",
+  "dependencies": {
+    "grapheme-breaker-u10-0": "^0.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^4.2.0",
+    "eslint-plugin-jest": "^22.5.1",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "jest": "^24.7.1",
+    "prettier": "^1.17.0"
+  }
+}

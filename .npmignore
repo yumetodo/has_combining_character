@@ -1,0 +1,5 @@
+test/
+.eslintcache
+.vscode/
+.gitattributes
+.travis.yml
