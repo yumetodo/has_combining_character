@@ -1,7 +1,7 @@
 # has_combining_character
 
 [![Actions Status](https://github.com/yumetodo/has_combining_character/workflows/Node%20CI/badge.svg)](https://github.com/yumetodo/has_combining_character/actions)
-[![Greenkeeper badge](https://badges.greenkeeper.io/yumetodo/has_combining_character.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/github/yumetodo/has_combining_character/badge.svg?targetFile=package.json)](https://snyk.io/test/github/yumetodo/has_combining_character?targetFile=package.json)
 
 Unicode 10.0 based combining charactor checker
 
